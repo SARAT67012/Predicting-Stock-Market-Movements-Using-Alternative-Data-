@@ -1,4 +1,4 @@
-# Predicting Stock Market Movements Using Alternative Data  
+# Predicting Stock Market Movements  
 ### A WorldQuant University Group Project (MSc in Financial Engineering)
 
 ---
