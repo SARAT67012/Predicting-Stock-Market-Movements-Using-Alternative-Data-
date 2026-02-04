@@ -20,7 +20,7 @@ The work is divided into two major industry-relevant components:
 
 ---
 
-## Why This Project Matters for Industry
+## Introduction
 
 Financial institutions face a constant challenge:
 
@@ -127,7 +127,7 @@ approaches.
 
 ---
 
-## Replication & Practical Implementation
+##  Practical Implementation
 
 As part of hands-on replication:
 - ETF data was downloaded programmatically
@@ -157,7 +157,7 @@ It enables:
 
 ---
 
-## Satellite Data: Industry User Guide
+## Satellite Data :
 
 ### Data Sources
 - **Public:** NASA, ESA, USGS, NOAA
@@ -179,12 +179,6 @@ Key issues addressed:
 - Unequal access to high-cost data
 - Privacy and geopolitical concerns
 
-**Industry best practices emphasized:**
-- Aggregated indicators
-- Ethical data usage
-- Compliance with data governance standards
-
----
 
 ## Python Implementation & EDA
 
@@ -198,29 +192,10 @@ The project includes:
 
 These techniques align with **best practices in quantitative finance research**.
 
----
 
-## Key Industry Takeaways
 
-- Feature optimization matters more than model complexity
-- Directional prediction is often more actionable than price prediction
-- Emerging markets require specialized modeling approaches
-- Alternative data provides measurable informational advantages
-- Ethical and governance considerations are essential in production systems
 
----
-
-## Group Contribution & Collaboration
-
-This was a **WorldQuant University group project**, emphasizing:
-- Collaborative research
-- Division of analytical tasks
-- Joint validation and replication
-- Academic integrity and reproducibility
-
----
-
-## Skills Demonstrated
+## Skills :-
 
 - Financial data analysis
 - Feature engineering & selection
@@ -230,17 +205,7 @@ This was a **WorldQuant University group project**, emphasizing:
 - Python for quantitative finance
 - Translating academic research into applied models
 
----
 
-## Why This Project Is Valuable to Employers
-
-✔ Demonstrates real **quant research thinking**  
-✔ Combines **academia + hands-on implementation**  
-✔ Addresses **industry-relevant financial problems**  
-✔ Shows experience with **alternative data**  
-✔ Reflects collaborative, production-oriented workflows  
-
----
 
 ## References
 
